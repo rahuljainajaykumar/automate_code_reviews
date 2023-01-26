@@ -1,4 +1,4 @@
-from selenium import webdriver
+from selenium import webdrive
 
 # Start a webdriver (e.g. Chrome)
 driver = webdriver.Chrome()
